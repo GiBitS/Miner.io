@@ -1,4 +1,4 @@
-# Cripto-Mining
+# *Cripto-Mining*
 
 A modification of Christian Buchner's &amp; Christian H.'s
 ccminer project by tsiv for Cryptonight mining.

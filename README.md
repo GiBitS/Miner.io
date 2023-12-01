@@ -1,4 +1,4 @@
-#*Mining.io*
+# *Mining.io*
 
 Cripto-Mining
 A modification of Christian Buchner's &amp; Christian H.'s
